@@ -1,0 +1,4 @@
+# Ignore everything that isn't source or compilation stuff
+*.map
+*.noi
+*.gb
